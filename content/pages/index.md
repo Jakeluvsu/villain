@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Nigga
+    title: TEVS
     subtitle: Kinantot ng Villain
     images:
       - type: ImageBlock
