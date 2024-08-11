@@ -44,7 +44,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Nigga
-    subtitle: This is the subtitle
+    subtitle: Kinantot ng Villain
     images:
       - type: ImageBlock
         url: /images/FB_IMG_1723342439850.jpg
