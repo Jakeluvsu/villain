@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: VILLAIN EXCLUSIVE
-    subtitle: 'TEVS BURAT MAGNANAKAW '
+    subtitle: VLNGANG ON TOP
     styles:
       self:
         height: auto
