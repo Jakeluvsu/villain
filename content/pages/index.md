@@ -16,11 +16,6 @@ sections:
     images:
       - type: ImageBlock
         url: /images/FB_IMG_1723342439850.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/FB_IMG_1723342439850.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
