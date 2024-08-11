@@ -10,39 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: "V\U0001D678\U0001D67B\U0001D67B\U0001D670\U0001D678\U0001D67D \U0001D674\U0001D687\U0001D672\U0001D67B\U0001D684\U0001D682\U0001D678\U0001D685e"
-    subtitle: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-        fontWeight: 400
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - type: MediaGallerySection
     title: TEVS
     subtitle: Kinantot ng Villain
