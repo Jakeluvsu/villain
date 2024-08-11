@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: VILLAIN EXCLUSIVE
-    subtitle: VLNGANG ON TOP
+    subtitle: ''
     styles:
       self:
         height: auto
