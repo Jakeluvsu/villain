@@ -4,7 +4,7 @@ title: Aso
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/FB_IMG_1723296889433.jpg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
